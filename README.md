@@ -61,6 +61,7 @@ Litter accumulation undermines infection manipulate efforts and creates an damag
 - JavaScript
 - Django
 - YoloV8
+- JupyterNotebook
 
 ## 🧑🏼‍💻 Collaborators <a name = "collaborators"></a>
 | <p align="center">![Taranjeet Singh Bedi](https://github.com/TartejBrothers.png?size=128)<br>[Taranjeet Singh Bedi](https://github.com/TartejBrothers)</p> | <p align="center">![Devesh Patel](https://github.com/devesh711.png?size=128)<br>[Devesh Patel](https://github.com/devesh711)</p> |<p align="center">![Shaurya Awasthi](https://github.com/Shaurya200401.png?size=128)<br>[Shaurya Awasthi](https://github.com/Shaurya200401)</p> |
